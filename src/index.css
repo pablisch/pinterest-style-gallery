@@ -15,7 +15,7 @@ body {
 }
 
 .masonry-column {
-  padding: 0 7px; /* Adjust based on your gutter/padding size */
+  padding: 0 7px; 
   background-clip: padding-box;
 }
 
@@ -33,6 +33,5 @@ body {
 }
 
 .selected {
-  opacity: 0.2 !important;
-  box-shadow: 40 40 40 40 rgba(0, 0, 0, 0.9) !important;
+  opacity: 0.5 !important;
 }
