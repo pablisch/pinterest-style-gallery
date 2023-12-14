@@ -5,6 +5,26 @@ const itemData = [
       title: 'Bed',
   },
   {
+      img: 'https://i.pinimg.com/564x/33/0c/a2/330ca278377e23abb2c8531c7626a117.jpg',
+      title: 'Beard',
+  },
+  {
+      img: 'https://i.pinimg.com/564x/72/a7/23/72a723bd485f4cd8857595561cd4ac43.jpg',
+      title: 'Earphones',
+  },
+  {
+      img: 'https://i.pinimg.com/564x/d1/52/ff/d152ff7172fc00dc48ead4157bc4774d.jpg',
+      title: 'Sinead',
+  },
+  {
+      img: 'https://i.pinimg.com/564x/af/9e/25/af9e253e417ddce77c18cee7f010ebb7.jpg',
+      title: 'Viking',
+  },
+  {
+      img: 'https://i.pinimg.com/564x/c1/85/95/c185956a6ded4a39babf6f3585f2216e.jpg',
+      title: 'Proud',
+  },
+  {
       img: 'https://images.unsplash.com/photo-1556135063-800a4cfe3206?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmFsZCUyMG1lbnxlbnwwfDF8MHx8fDA%3D',
       title: 'Books',
   },

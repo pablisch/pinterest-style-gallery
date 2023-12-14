@@ -5,10 +5,10 @@ import itemData from './utils/itemData';
 
 const columnBreakpoints = {
   default: 5, 
-  1400: 4,
-  1100: 3,
+  1500: 4,
+  1200: 3,
   900: 2,    
-  500: 1,     
+  600: 1,     
 };
 
 const Feed = () => {
